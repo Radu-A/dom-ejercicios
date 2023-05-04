@@ -1,13 +1,6 @@
-body{
-    background-color: aquamarine;
-    font-family: Arial, Helvetica, sans-serif;
+figure img {
+    width: 400px;
 }
-
-.night{
-    background-color: #000;
-    color: yellow;
-}
-
-.impreso {
-    background-color: beige;
+.esconder {
+    display: none;
 }
